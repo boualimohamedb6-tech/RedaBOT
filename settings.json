@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "AmineAmirRedaWalid.aternos.me:19945",
-    "port": 27586,
+    "ip": "AmineAmirRedaWalid.aternos.me",
+    "port": 19945,
     "version": "",
     "try-creative": false
   },
